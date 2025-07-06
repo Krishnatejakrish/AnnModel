@@ -7,7 +7,6 @@ matplotlib
 flask
 scikit-learn
 keras
-tensorflow
 tensorboard
 streamlit
 tensorflow==2.13.0
