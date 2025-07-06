@@ -1,7 +1,6 @@
 ipykernel
 numpy
 pandas
-pandas
 seaborn
 matplotlib
 flask
